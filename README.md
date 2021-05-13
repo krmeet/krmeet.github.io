@@ -1,4 +1,3 @@
-# krmeet.github.io
-github pages
+# krmeet
 
-maintained by me obviously are you dumb
+<3
